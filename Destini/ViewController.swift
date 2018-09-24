@@ -59,6 +59,11 @@ class ViewController: UIViewController {
     }
     
 
+    // Set Title of Button
+    func setTitle(_ title: String?, for state: UIControlState) {
+        
+    }
+
 
 
 }
